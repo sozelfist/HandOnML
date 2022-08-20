@@ -1,0 +1,1 @@
+> The repository contains notebooks of examples and code solutions (some notebooks have excercise answers) for all chapters of the book __Hands On Machine Learning with ScikitLearn Keras and Tensorflow__
